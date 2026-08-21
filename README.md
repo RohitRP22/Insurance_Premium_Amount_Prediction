@@ -6,7 +6,7 @@ The goal of this dataset is to facilitate the development and testing of regress
 
 ## Dataset Overview
 
-This dataset contains 2Lk+ and 20 features with a mix of categorical, numerical, and text data. It includes missing values, incorrect data types, and skewed distributions to mimic the complexities faced in real-world datasets. The target variable for prediction is the "Premium Amount".
+This dataset contains 2M+ and 20 features with a mix of categorical, numerical, and text data. It includes missing values, incorrect data types, and skewed distributions to mimic the complexities faced in real-world datasets. The target variable for prediction is the "Premium Amount".
 
 ### Features
 
